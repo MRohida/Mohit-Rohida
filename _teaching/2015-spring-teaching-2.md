@@ -1,22 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "Bi-Semester '24"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "School of Arts and Sciences, Ahmedabad University"
-date: 2015-01-01
-location: "City, Country"
+type: "Instructor"
+permalink: /teaching/2024-bisemester-teaching
+venue: "Ahmedabad University"
+date: Sep 2024-Present (Ongoing)
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Precalculus
-======
-
-This course.
-
-Heading 2
-======
-
-Heading 3
-======
+For the '24 Bi-Semester, I am teaching An Invitation to College Mathematics (MAT123). Course notes, worksheets, reading material and exam papers for the same can be found [here](https://github.com/kanak-sudo/MAT123-24) and are updated timely.
