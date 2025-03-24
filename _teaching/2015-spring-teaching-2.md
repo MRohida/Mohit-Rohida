@@ -1,9 +1,9 @@
 ---
-title: "Bi-Semester '24"
+title: "October 2024 - March 2025"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2024-bisemester-teaching
 venue: "Ahmedabad University"
 date: Sep 2024-Present (Ongoing)
 ---
-For the '24 Bi-Semester, I am teaching An Invitation to College Mathematics (MAT123). Course notes, worksheets, reading material and exam papers for the same can be found and are updated timely.
+I was an instructor for An Invitation to College Mathematics (MAT123) course. This course covered basic algebra, system of linear equations and study of polynomial functions with graphing of polynomial functions.
