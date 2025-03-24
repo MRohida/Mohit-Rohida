@@ -1,9 +1,9 @@
 ---
-title: "October 2024 - March 2025"
+title: "Instructor"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2024-bisemester-teaching
 venue: "Ahmedabad University"
-date: Sep 2024-Present (Ongoing)
+date: October 2024 - March 2025
 ---
-I was an instructor for An Invitation to College Mathematics (MAT123) course. This course covered basic algebra, system of linear equations and study of polynomial functions with graphing of polynomial functions.
+I was an instructor for the MAT123 Precalculus course. This course covered basic algebra, a system of linear equations and the study of polynomial functions with graphing of polynomial functions.
