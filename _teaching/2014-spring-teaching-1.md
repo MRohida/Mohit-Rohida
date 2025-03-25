@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Teaching Assitant"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2024-bisemester-teaching
