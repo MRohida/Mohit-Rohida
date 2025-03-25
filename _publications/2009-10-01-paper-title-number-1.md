@@ -1,5 +1,5 @@
 ---
-title: "[Hybrid classical-quantum image processing via polar Walsh basis functions](https://link.springer.com/article/10.1007/s42484-024-00205-9)"
+title: "Hybrid classical-quantum image processing via polar Walsh basis functions"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
