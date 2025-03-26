@@ -2,7 +2,7 @@
 title: "Hybrid classical-quantum image processing via polar Walsh basis functions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/polar-walsh
 excerpt: 'We propose a novel hybrid classical-quantum approach for image processing based on polar Walsh basis functions. Using this approach, we present an algorithm for the removal of the circular banding noise
 (including Airy pattern noise) and the azimuthal banding noise'
 date: 2024-10-28
