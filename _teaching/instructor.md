@@ -2,7 +2,7 @@
 title: "Instructor"
 collection: teaching
 type: "Instructor"
-permalink: /teaching/2024-bisemester-teaching
+permalink: /teaching/instructor
 venue: "Ahmedabad University"
 date: October 2024 - March 2025
 ---
