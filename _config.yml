@@ -14,7 +14,7 @@ name                     : &name "Mohit"
 description              : &description "PhD student in the Division of Physical and Mathematical at Ahmedabad University"
 url                      : https://mrohida.github.io/Mohit-Rohida/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+# repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "Mohit Rohida"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
