@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-My CV could be found [here](https://drive.google.com/file/d/1MkmS8S9T5XwTDNkidUHOseIhDaBMD3Q2/view?usp=sharing).
+My updated CV can be found [here](https://drive.google.com/file/d/1MkmS8S9T5XwTDNkidUHOseIhDaBMD3Q2/view?usp=sharing).
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+# ======
+# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# * M.S. in Jekyll, GitHub University, 2014
+# * B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
