@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My CV could be found [here](https://drive.google.com/file/d/1MkmS8S9T5XwTDNkidUHOseIhDaBMD3Q2/view?usp=sharing).
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
