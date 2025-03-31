@@ -1,3 +1,8 @@
+---
+permalink: /books/
+title: "Books"
+---
+
 ## Physics
 - Introduction to Electrodynamics by D.J. Griffiths
 
