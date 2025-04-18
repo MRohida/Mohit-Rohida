@@ -10,9 +10,11 @@ This page is supposed to be a collection of books I have used in my academic jou
 - Classical Mechanics, Goldstein, Poole, Safko, Third Edition, Pearson.
 - Concepts of Physics Volume - 1, H.C. Verma, Bharati Bhawan.
 - Concepts of Physics Volume - 2, H.C. Verma, Bharati Bhawan.
-- Quantum Computation and Quantum Information, Michael A. Nielsen & Issac L. Chuang, 10th Anniversary Edition, Cambridge.
-- Introduction to Theoretical Computer Science, Boaz Barak. 
-  
+- Quantum Computation and Quantum Information, Michael A. Nielsen & Issac L. Chuang, 10th Anniversary Edition, Cambridge. 
+
+## Computer Science
+- Introduction to Theoretical Computer Science, Boaz Barak.
+
 ## Others
 - Dreams of a Final Theory, Steven Weinberg.
 - The Trouble with Physics, Lee Smolin.
@@ -22,4 +24,4 @@ This page is supposed to be a collection of books I have used in my academic jou
 - The Mahabharata, Volume - 2, Bibek Debroy
 - The Mahabharata, Volume - 3, Bibek Debroy.
 - The Legend of Parshuram, Dr. Vineet Agarwal.
-- 
+  
