@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/polar-walsh
 excerpt: 'We propose a novel hybrid classical-quantum approach for image processing based on polar Walsh basis functions. Using this approach, we present an algorithm for the removal of the circular banding noise
-(including Airy pattern noise) and the azimuthal banding noise'
+(including Airy pattern noise) and the azimuthal banding noise.'
 date: 2024-10-28
 venue: 'Quantum Machine Intelligence'
 citation: 'Mohit Rohida, Alok Shukla, and Prakash Vedula. Hybrid classical-quantum image processing via polar
