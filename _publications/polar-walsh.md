@@ -7,7 +7,7 @@ excerpt: 'We propose a novel hybrid classical-quantum approach for image process
 (including Airy pattern noise) and the azimuthal banding noise.'
 date: 2024-10-28
 venue: 'Quantum Machine Intelligence'
-citation: 'Mohit Rohida, Alok Shukla, and Prakash Vedula. Hybrid classical-quantum image processing via polar
+citation: 'M. Rohida, A. Shukla, and P. Vedula. Hybrid classical-quantum image processing via polar
 Walsh basis functions. <i>Quantum Machine Intelligence</i>, 6(2):72, 2024.'
 paperurl: 'https://link.springer.com/article/10.1007/s42484-024-00205-9'
 ---
