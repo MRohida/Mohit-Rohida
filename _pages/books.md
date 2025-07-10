@@ -3,7 +3,7 @@ permalink: /books/
 title: "Books"
 ---
 
-This page is supposed to be a collection of books I have used in my academic journey and some books I find interesting to read. The list will be updated on a fairly regular basis.
+This page is supposed to be a collection of books I have used in my academic journey and books I find interesting to read. The list will be updated on a fairly regular basis.
 
 ## Physics and Mathematics
 - Introduction to Electrodynamics, David J. Griffiths, Fourth Edition, Pearson (South Asia Edition).
