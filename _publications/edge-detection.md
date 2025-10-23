@@ -1,7 +1,7 @@
 ---
 title: "Quantum algorithm for edge detection in digital grayscale images"
-collection: Preprints
-category: manuscripts
+collection: publications
+category: preprints
 permalink: /publication/edge-detection
 excerpt: 'In this work, we propose a novel quantum algorithm for edge detection in digital grayscale images, based on the sequency-ordered Walsh-Hadamard transform. The proposed method significantly improves upon existing quantum techniques for edge detection by using a quantum algorithm for the sequency-ordered Walsh-Hadamard transform, achieving a circuit depth of $$ O(n) $$ (where $$ n $$  is the number of qubits). [Read more...](https://mrohida.github.io/Mohit-Rohida//publication/edge-detection)'
 date: 2025-07-10
