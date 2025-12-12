@@ -3,8 +3,6 @@ permalink: /books/
 title: "Books"
 ---
 
-![S](https://drive.google.com/file/d/1lWJQc5ahCmnPXGHDvpLDNHy4cfLx152C/view?usp=drive_link)
-
 This page is intended to be a (non-exhaustive) collection of books I have used in my academic journey, as well as books I find interesting to read. I don't claim to have read these books completely; I use them as needed. The list will be updated on a fairly regular basis.
 
 ## Academic
