@@ -26,4 +26,5 @@ This page is intended to be a (non-exhaustive) collection of books I have used i
 - The Mahabharata, Volume - 2, Bibek Debroy
 - The Mahabharata, Volume - 3, Bibek Debroy.
 - The Legend of Parshuram, Dr Vineet Agarwal.
+- Newton, PeterAckroyd.
   
