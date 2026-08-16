@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of this CV is available [here]({{ base_path }}/files/CV.pdf).
+A PDF version of this CV is available [here](https://drive.google.com/file/d/1VyxYPT5Dfaf36eCrZTzalWESwK8uM7Au/view?usp=sharing).
 
 Education
 ======
