@@ -1,6 +1,5 @@
 ---
 permalink: /books/
-title: "Books"
 ---
 
 This page is intended to be a (non-exhaustive) collection of books I have used in my academic journey, as well as books I find interesting to read. I don't claim to have read these books completely; I use them as needed.
