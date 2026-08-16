@@ -37,8 +37,8 @@ Conferences, Workshops and Talks
 ======
 **Talks**
 
-* "Quantum algorithm for edge detection in digital grayscale images," Centre for Quantum Information, Communication and Computing (CQuICC), IIT Madras, Chennai, 16 January 2026
-* "Quantum algorithm for edge detection in digital grayscale images," Quantum Meets, hosted by IIIT Hyderabad, 12 January 2026
+* "Quantum algorithm for edge detection in digital grayscale images," **Centre for Quantum Information, Communication and Computing (CQuICC), IIT Madras**, Chennai, 16 January 2026
+* "Quantum algorithm for edge detection in digital grayscale images," **Quantum Meets, hosted by IIIT Hyderabad**, 12 January 2026, [YouTube link](https://youtu.be/V_9EKXuB_YY?si=7AcxUd_TNsXFy3CZ)
 * "Foundations of Quantum Computing," LDRP Institute of Technology and Research, Gandhinagar, 29 December 2025
 * "When Turing meets Schrödinger: Computations with a quantum spin," Aarohan – PhD Students' Retreat, Ahmedabad University, Gujarat, 11 December 2025
 * "Macroscopic Quantum Tunnelling – Why is it Nobel worthy?" Ahmedabad Management Association (AMA), Ahmedabad, Gujarat, 1 November 2025
@@ -69,9 +69,9 @@ Academic Achievements
 
   | Entrance Test | Year | All India Rank (AIR) |
   |:---|:---:|:---:|
-  | Joint Entrance Screening Test (JEST) | 2021 | 33 |
-  | Graduate Aptitude Test in Engineering (GATE) | 2021 | 855 |
-  | Joint Admission Test for Masters (JAM) | 2018 | 1023 |
+  | Joint Entrance Screening Test (**JEST**) | 2021 | 33 |
+  | Graduate Aptitude Test in Engineering (**GATE**) | 2021 | 855 |
+  | Joint Admission Test for Masters (**JAM**) | 2018 | 1023 |
 
 * Selected for the Advanced B.Sc. (Physics) Summer Programme 2017, organized and funded by the Gujarat Science Academy (GSA) and Vikram A. Sarabhai Community Science Centre (VASCSC), St. Xavier's College, Ahmedabad, May–June 2017
 
