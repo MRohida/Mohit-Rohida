@@ -24,13 +24,13 @@ Publications
 ======
 Scimago quartile rankings are given for the year of publication and may differ from current rankings.
 
-* M. Rohida, A. Shukla, and P. Vedula, "[Hybrid classical-quantum image processing via polar Walsh basis functions](https://link.springer.com/article/10.1007/s42484-024-00205-9)," *Quantum Machine Intelligence*, vol. 6, no. 2, p. 72, 2024. (Q1)
+* **M. Rohida**, A. Shukla, and P. Vedula, "[Hybrid classical-quantum image processing via polar Walsh basis functions](https://link.springer.com/article/10.1007/s42484-024-00205-9)," *Quantum Machine Intelligence*, vol. 6, no. 2, p. 72, 2024. (Q1)
   preprint: [arXiv:2403.16044](https://arxiv.org/abs/2403.16044) [quant-ph]
 
 **Manuscripts under review**
 
-* M. Rohida, A. Shukla, and P. Vedula, "Quantum algorithm for edge detection in digital grayscale images." Preprint: [arXiv:2507.06642](https://arxiv.org/abs/2507.06642) [quant-ph]
-* M. Rohida, A. Shukla, and P. Vedula, "Structure preserving Quantum Algorithms for Linear Ordinary Differential Equations." Preprint: [hal-05680703](https://hal.science/hal-05680703)
+* **M. Rohida**, A. Shukla, and P. Vedula, "Quantum algorithm for edge detection in digital grayscale images." Preprint: [arXiv:2507.06642](https://arxiv.org/abs/2507.06642) [quant-ph]
+* **M. Rohida**, A. Shukla, and P. Vedula, "Structure preserving quantum algorithms for linear ordinary differential equations." Preprint: [hal-05680703](https://hal.science/hal-05680703)
 
 Conferences, Workshops and Talks
 ======
